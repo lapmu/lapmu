@@ -1,14 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello~I'm%20moosung&fontSize=60" />
 
-<h3>🎈Introduction🎈</h3>
-<hr/>
-현재 프론트엔드 개발자의 꿈을 가지고
-
-공부하고 있는 예비 개발자입니다!
-
-<br/>
-
 <h3>✨Front-end Stack✨</h3>
 <hr/>
 
