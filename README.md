@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-<h3>👏contact to me👏</h3>
+<h3>👏Contact to me👏</h3>
 <hr/>
 <a href="mailto:antjdgkdl@gmail.com">
     <img 
